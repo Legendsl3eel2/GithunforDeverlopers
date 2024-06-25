@@ -1,0 +1,52 @@
+header,
+html {
+    background-color: #9c9c9c;
+    padding: 0px;
+    margin: 0px;
+}
+
+.ub {
+    background-color: black;
+    padding: 10px;
+    margin: 20px;
+}
+
+.MP {
+
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.MP1 {
+
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    padding: 15px;
+}
+
+.mainbox {
+    max-width: 500%;
+    margin: auto;
+}
+
+.box {
+    background-color: #fff; 
+    padding: 200px;
+    margin: 30px;
+    text-decoration: none;
+}   
+
+.img {
+    width: 100%;
+}
+.rm {
+    display: inline-block;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
